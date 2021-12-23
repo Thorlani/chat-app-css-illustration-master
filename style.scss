@@ -255,8 +255,8 @@ body {
     position: absolute;
 }
 
-@media (max: 420px) {
+@media (max-width: 420px) {
     .right {
-        margin-right: -2rem;
+        margin-right: -3rem;
     }
 }
